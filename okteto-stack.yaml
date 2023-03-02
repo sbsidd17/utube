@@ -1,5 +1,5 @@
 services:
-  drone-srcb:
+  sid-bots:
     build: .
     environment:
       API_ID: $API_ID  
